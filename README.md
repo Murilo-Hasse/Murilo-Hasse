@@ -1,7 +1,7 @@
--  Hi, I’m @Murilo-Hasse
--  I’m interested in OOP
--  I’m currently learning Java
--  How to reach me: www.linkedin.com/in/murilo-hasse-349785274
+-  Olá, me chamo Murilo Hasse;
+-  Me interesso muito em bitcoin e programação;
+-  Atualmente estou aprendendo Java;
+-  Segue meu perfil do linkedin: www.linkedin.com/in/murilo-hasse-349785274
 
 
 <!---
