@@ -1,6 +1,6 @@
 -  Olá, me chamo Murilo Hasse;
 -  Me interesso muito em bitcoin e programação;
--  Atualmente estou aprendendo Java;
+-  Atualmente estou aprendendo Java, com foco no ecossistema Spring;
 -  Segue meu perfil do linkedin: www.linkedin.com/in/murilo-hasse/
 
 
